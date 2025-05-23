@@ -2,11 +2,9 @@ env/
 __pycache__/
 *.pyc
 *.h5
-*.pth
 *.mp4
 *.avi
 *.mpg
-*.pth
 env/
 .DS_Store
 .ipynb_checkpoints/
