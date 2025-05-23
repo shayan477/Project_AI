@@ -1,0 +1,8 @@
+[server]
+# Disable the file watcher
+fileWatcherType = "none"
+
+[browser]
+# Auto-open the browser when the app starts
+serverAddress = "localhost"
+serverPort = 8501 
